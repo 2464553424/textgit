@@ -78,6 +78,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F1002EC1214F8DFF00001AFB /* 未命名文件夹 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "未命名文件夹";
+			sourceTree = "<group>";
+		};
 		F127054B214F8C21008AC793 = {
 			isa = PBXGroup;
 			children = (
@@ -101,6 +108,7 @@
 		F1270556214F8C21008AC793 /* textgit */ = {
 			isa = PBXGroup;
 			children = (
+				F1002EC1214F8DFF00001AFB /* 未命名文件夹 */,
 				F1270557214F8C21008AC793 /* AppDelegate.h */,
 				F1270558214F8C21008AC793 /* AppDelegate.m */,
 				F127055A214F8C21008AC793 /* ViewController.h */,
